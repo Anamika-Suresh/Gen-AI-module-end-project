@@ -52,5 +52,4 @@ This project is a paraphrasing system developed in Python using transformer mode
 
 5. The final paraphrased text and evaluation scores are displayed.
 
-all-MiniLM-L6-v2 (for semantic similarity evaluation)
   
